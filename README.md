@@ -27,7 +27,7 @@
 </head>
 <body>
   <div class="card" role="main" aria-labelledby="main-title">
-    <h1 id="main-title">BYE BYE — Fragen ?</h1>
+    <h1 id="main-title">NUKE_GLXN ?</h1>
     <p class="small">Trage unten deine Nachricht ein (max. 2000 Zeichen). Standard-Webhooks sind bereits eingetragen. Optional kannst du oben eine eigene Webhook-URL hinzufügen — dann wird dorthin zusätzlich gesendet.</p>
 
     <label for="extraWebhook">Eigene Webhook-URL (optional)</label>
